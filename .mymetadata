@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="TopNews_WebProject"
+  id="myeclipse.1458623712769"
+  context-root="/TopNews_WebProject"
+  j2ee-spec="5.0"
+  archive="TopNews_WebProject.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
